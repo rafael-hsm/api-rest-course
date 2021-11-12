@@ -1,0 +1,7 @@
+Rest - REpresentational State Transfer. Transferência Representacional de Estado.
+
+API- Application Programming Interface - Interface de comunicação entre aplicações/sistemas.
+
+Restfull nada mais é do que padrão de design.
+
+HTTP - é onde a Internet "roda" é por design, sem estado/dado.
